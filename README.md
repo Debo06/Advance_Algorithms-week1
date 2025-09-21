@@ -12,8 +12,6 @@ Python Files:
 5. utils.py -- Utility File
 6. eda.py -- EDA file( Perform exploratory data analysis)
 
-week1_assignment_presentation.pptx -- presentation for the week
-
 
 EDA Summary:
 
